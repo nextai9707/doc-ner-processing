@@ -498,15 +498,7 @@ in the Software without restriction, ...
 - [scikit-learn](https://scikit-learn.org/) - 机器学习库
 
 ---
-
-## 📮 联系方式
-
-- 作者：<your-name>
-- 邮箱：<your-email@example.com>
-- GitHub：[@your-username](https://github.com/<your-username>)
-
 如果这个项目对你有帮助，欢迎点一个 ⭐ Star 支持一下！
-
 ---
 
 <p align="center">Made with ❤️ for Chinese NLP community</p>
