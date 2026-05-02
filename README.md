@@ -15,6 +15,12 @@
 **智能文档处理系统** 是一套面向中文文本场景的全栈式文档智能处理平台。系统支持 TXT / DOCX / PDF 等多格式文档的批量上传与解析，提供细粒度可配置的文本预处理流程，基于 TF-IDF / TextRank 的关键词提取与**真正的句子级抽取式摘要**，并通过规则与算法双引擎完成结构化信息抽取。
 
 系统采用前后端分离架构，后端基于 Flask + SQLAlchemy + 多线程 ThreadPoolExecutor 实现高吞吐文档处理，前端基于 Vue 3 + Element Plus + Pinia 构建现代化交互界面，结果支持 JSON / Excel / CSV 多格式导出，并提供完整的 RBAC 权限控制与审计日志。
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/73c5047e-561f-416a-8af7-b53a31d72bbc" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3a379509-3b44-4b43-bd48-4ccd1293b24d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e155cee1-6a14-40e0-b430-877e7ffb5478" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55e0a6b7-03b1-4a62-922f-aa0a73797866" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/415b04b9-e012-4448-be34-2a14e613ca2f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d6cf08e-fcb8-42e3-bf6a-4809b61f44e0" />
 
 ---
 
